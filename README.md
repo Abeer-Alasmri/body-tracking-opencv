@@ -3,6 +3,10 @@
 ## 🧠 Track:
 Artificial Intelligence and Robot Operating Systems (ROS)
 
+## 👩🏻‍💻 Designer  
+*Designed by: Abeer Alasmri*  
+
+
 ---
 
 ## 🛠 Tools & Technologies Used:
